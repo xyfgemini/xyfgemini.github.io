@@ -17,10 +17,10 @@ continue building my homepage!
 
 My research interests focus on Efficient AI Computing : 
 
-- Efficient AI Algorithms(i.e.:DNNs、LLMs)
+- Efficient ML Algorithms(i.e.:DNNs、LLMs)
 
-- Effective System(i.e.:framework、Inference-engine、kernel library、compiler) support for Algorithms 
+- Effective Algorithm-System(i.e.:framework、Inference-engine、kernel library、compiler) co-design
 
-- Flexible Algorithm and Hardware Architecture(i.e.:GPU、DSA) co-design
+- Flexible Algorithm-Architecture(i.e.:GPU、DSA) co-design
 
 	
