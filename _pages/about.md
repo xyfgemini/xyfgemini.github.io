@@ -15,12 +15,12 @@ continue building my homepage!
 
 # Research topic
 
-My research interests focus on Efficient  AI Computing(, i.e.: 
+My research interests focus on Efficient AI Computing.: 
 
-- Efficient ML/AI Algorithms
+- Efficient AI Algorithms(i.e.:DNNs、LLMs)
 
-- Efficient Algoritm and System(e.g.:framework、kernel library、compiler) co-design
+- Efficient Algorithm and System(i.e.:framework、kernel library、compiler) co-design
 
-- Flexible Algorithm and Hardware Architecture(e.g.:GPU、DSA) co-design
+- Flexible Algorithm and Hardware Architecture(i.e.:GPU、DSA) co-design
 
 	
