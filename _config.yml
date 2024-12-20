@@ -58,7 +58,6 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "yifu-xu-6359292b6" 
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -66,13 +65,15 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # 
-  twitter          : "Utopia_Realism" 
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
   youtube          : # 
-  zhihu            : "xu-yi-fu-70" 
+  zhihu            : "xu-yi-fu-70"
+  twitter          : "Utopia_Realism" 
+  linkedin         : "yifu-xu-6359292b6" 
+
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
