@@ -15,7 +15,7 @@ continue building my homepage!
 
 # Research topic
 
-My research interests focus on ==Efficient  LLM  inference==, i.e.: 
+My research interests focus on Efficient  AI Computing(, i.e.: 
 
 - Efficient ML/AI Algorithms
 
