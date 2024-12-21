@@ -25,7 +25,9 @@
 
 # intern 
 
-垂直经历，核心业务，产品落地：通用性，用户，市场
+垂直经历:CUDA Triton GPGPU TVM MLIR
+
+核心业务，产品落地：通用性，用户，市场 
 
 - [BOSC](https://shinezyy.github.io/ArchShineZ/post/recruit-dsa/)
 
