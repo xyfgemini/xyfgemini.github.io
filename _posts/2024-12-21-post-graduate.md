@@ -15,8 +15,8 @@
 大论文: 拼凑以往的工作（横向、paper）
 
 - survey: 背景、问题&挑战、方法&创新点、效果（benchmark、metric、 baseline、SOTA)
-- idea: 复现SOTA，建模找性能瓶颈bottleneck，提出方法改进(idea)&创新点(optimal solution)
-- experiment: benchmark效果（comparison、ablation)、性能提升，idea不work需要回滚
+- idea: 复现SOTA，profile bottleneck, idea&创新点(modeling–>optimal solution)
+- experiment: benchmark效果（comparison、ablation)、性能提升，效果不好polish idea
 - write: 讲好一个完整的故事
 - submission & presentation: show time
 
