@@ -10,9 +10,11 @@
 
 # research 
 
-独立科研能力，课题价值，资源，collaborator，极致special，insightness
+独立科研能力，课题价值，资源，collaborator
 
-大论文: 拼凑以往的工作（横向、paper）
+极致special，insightness
+
+dissertation/thesis:  拼凑以往的工作（prj、paper）
 
 - survey: 背景、问题&挑战、方法&创新点、效果（benchmark、metric、 baseline、SOTA)
 - idea: 复现SOTA，profile bottleneck, idea&创新点(modeling–>optimal solution)
@@ -25,9 +27,11 @@
 
 # intern 
 
-垂直经历:CUDA Triton GPGPU TVM MLIR
+垂直经历
 
-核心业务，产品落地：通用性，用户，市场 
+核心业务
+
+产品落地：通用性，用户，市场 
 
 - [BOSC](https://shinezyy.github.io/ArchShineZ/post/recruit-dsa/)
 
