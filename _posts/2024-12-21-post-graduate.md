@@ -12,14 +12,12 @@
 
 # research 
 
-独立科研能力，课题价值，资源，collaborator
-
-极致special，insightness
+独立科研能力，课题价值，资源，collaborator | 极致special，insightness
 
 - survey: 背景、问题&挑战、方法&创新点、效果（benchmark、metric、 baseline、SOTA)
-- idea: 复现SOTA，profile bottleneck, idea&创新点(modeling–>optimal solution)
-- experiment: benchmark效果（comparison、ablation)、性能提升，效果不好polish idea
-- write: 讲好一个完整的故事
+- idea: 复现SOTA, 找bottlneck, modeling–>optimal solution, 提出idea, 创新点
+- experiment: benchmark效果（comparison、ablation)、性能提升, 效果不好polish idea
+- write: motivation, 讲好一个完整的故事
 - submission & presentation: show time
 
 
