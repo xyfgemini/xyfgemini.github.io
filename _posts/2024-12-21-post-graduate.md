@@ -12,7 +12,9 @@
 # research 
 
 - 课题(LLM推理加速)
+
 	- algorithm：llm，diffusion，agent
+
 	- mlsys：训推框架，算子库，编译器
 	- chip：cpu/gpu/DSA(FPGA/ASIC/simulator)
 
@@ -23,11 +25,11 @@
 - experiment: benchmark效果（comparison、ablation)、性能提升, 效果不好polish idea
 - write: motivation, 讲好一个完整的故事
 - submission & presentation: show time
-	
+
 
 # intern 
 
-落地/通用性/功能  | 痛点/需求
+落地/通用性/功能  | 痛点/需求 | 核心盈利部门
 
 - [BOSC](https://shinezyy.github.io/ArchShineZ/post/recruit-dsa/)
 
