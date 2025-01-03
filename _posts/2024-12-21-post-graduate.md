@@ -16,7 +16,7 @@
 	- algorithm：llm，diffusion，agent
 
 	- mlsys：训推框架，算子库，编译器
-	- chip：cpu/gpu/DSA(FPGA/ASIC/simulator)
+	- chip：cpu/gpu/npu(FPGA/ASIC/simulator)
 
 独立科研能力，资源，collaborator | idea，极致special，insightness
 
