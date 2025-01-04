@@ -1,3 +1,15 @@
+# project  
+
+Efficient LLM Inference 、diffusion model、multi-agent
+
+- app/algorithm: module、compression、fine-tuning
+
+- system: framework、library、ai compiler
+
+- chip: simulator–>cpu/gpu/npu(FPGA/ASIC)
+
+	
+
 # [Github](https://github.com/xyfgemini)
 
 - 拥抱开源社区，眼光聚焦于学界和业界的前沿
@@ -18,22 +30,19 @@
 
 # research 
 
-- 课题(LLM推理加速)
-
-	- algorithm: llm，diffusion，agent
-
-	- mlsys: 训推框架，算子库，编译器(cuda，triton) 
-	- chip: cpu/gpu/npu(FPGA/ASIC/simulator)
-
-独立科研能力，资源，collaborator | idea，极致special，insightness
+独立科研能力，资源，collaborator |  问题，idea，极致special，insightness
 
 - survey: 背景、问题&挑战、方法&创新点、效果（benchmark、metric、 baseline、SOTA)
-- idea: 复现SOTA, 找bottleneck, modeling–>optimal solution, 提出idea, 创新点
+
+- idea: 复现SOTA, modeling找bottleneck, 提出idea, 创新点
+
 - experiment: benchmark效果（comparison、ablation)、性能提升, 效果不好polish idea
+
 - write: motivation, 讲好一个完整的故事
+
 - submission & presentation: show time
 
-
+	
 
 # intern 
 
