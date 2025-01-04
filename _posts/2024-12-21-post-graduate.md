@@ -6,7 +6,7 @@ Efficient LLM Inference 、diffusion model、multi-agent
 
 - system: framework、library、ai compiler
 
-- chip: simulator–>cpu/gpu/npu(FPGA/ASIC)
+- chip: simulator–>cpu/gpu/npu(FPGA验证/ASIC流片)
 
 	
 
