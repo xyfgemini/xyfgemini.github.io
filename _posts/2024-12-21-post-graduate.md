@@ -4,7 +4,7 @@ Efficient LLM Inference 、diffusion model、multi-agent
 
 - app/algorithm: module、compression、fine-tuning
 
-- system: framework、library、ai compiler
+- system: framework、kernel library、ai compiler
 
 - chip: simulator–>cpu/gpu/npu(FPGA验证/ASIC流片)
 
