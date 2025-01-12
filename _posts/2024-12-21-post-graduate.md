@@ -30,7 +30,7 @@ Efficient LLM Inference 、diffusion model、multi-agent
 
 # research 
 
-独立科研能力，资源，collaborator |  问题，idea，极致special，insightness
+独立科研能力，资源，collaborator |  问题漏洞idea，极致special，insightness，创新
 
 - survey: 背景、问题&挑战、方法&创新点、效果（benchmark、metric、 baseline、SOTA)
 
