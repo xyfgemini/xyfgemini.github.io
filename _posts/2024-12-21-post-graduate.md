@@ -1,8 +1,6 @@
 # topic 
 
-Efficient LLM Inference 、diffusion model、multi-agent
-
-- app/algorithm: module、compression、fine-tuning
+- model: compression(LLM、diffusion、agent)
 
 - system: framework、kernel library、ai compiler
 
