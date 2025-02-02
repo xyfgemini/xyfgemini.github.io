@@ -4,7 +4,7 @@
 
 - system: framework、kernel library、ai compiler
 
-- chip: simulator–>cpu/gpu/npu(FPGA验证/ASIC流片)
+- chip: simulator–>XPU(FPGA验证/ASIC流片)
 
 	
 
@@ -24,9 +24,9 @@
 
 # research 
 
-独立科研能力，资源，collaborator |  问题漏洞idea，极致special，创新，insightness
+独立科研能力，资源，collaborator |  极致special，创新，insightness
 
-- survey: 背景、问题&挑战、方法&创新点、效果（benchmark、metric、 baseline、SOTA)
+- survey: 研究背景（问题、挑战、相关工作）、idea（创新点）、实验效果（benchmark、 baseline、SOTA)、结论
 
 - idea: 复现SOTA, modeling找bottleneck, 提出idea, 创新点
 
