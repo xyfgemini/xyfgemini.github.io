@@ -4,7 +4,7 @@
 
 - system: compression、framework、kernel library、ai compiler
 
-- XPU: simulator/FPGA验证/ASIC
+- chip: simulator/FPGA验证/ASIC
 
 	
 
