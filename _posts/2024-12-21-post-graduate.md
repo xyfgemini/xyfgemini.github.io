@@ -1,10 +1,10 @@
 # topic 
 
-- model: compression(LLM、diffusion、agent)
+- model: LLM、diffusion、agent
 
-- system: framework、kernel library、ai compiler
+- system: compression、framework、kernel library、ai compiler
 
-- chip: simulator–>XPU(FPGA验证/ASIC流片)
+- XPU: simulator/FPGA验证/ASIC
 
 	
 
@@ -40,7 +40,7 @@
 
 # industry 
 
-落地/通用性/功能  | 痛点/需求 | 核心盈利部门
+核心盈利部门 | 需求落地/通用性/feature 
 
 - [BOSC](https://shinezyy.github.io/ArchShineZ/post/recruit-dsa/)
 
