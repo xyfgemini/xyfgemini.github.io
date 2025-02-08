@@ -1,10 +1,10 @@
 # topic 
 
-- model: LLM、diffusion、agent
+- model: LLM、stable diffusion、multi-agent
 
 - system: compression、framework、kernel library、ai compiler
 
-- chip: simulator/FPGA验证/ASIC
+- chip: simulator/FPGA/ASIC
 
 	
 
@@ -26,15 +26,13 @@
 
 独立科研能力，资源，collaborator |  极致special，创新，insightness
 
-- survey: 研究背景（问题、挑战、相关工作）、idea（创新点）、实验效果（benchmark、 baseline、SOTA)、结论
+- survey: 研究背景（问题 挑战 motivation 相关工作）、idea（创新点）、实验效果（benchmark、 baseline、SOTA)、结论
 
-- idea: 复现SOTA, modeling找bottleneck, 提出idea, 创新点
+- idea: 复现 SOTA ，modeling找bottleneck ，提出idea ，创新点
 
-- experiment: benchmark效果（comparison、ablation)、性能提升, 效果不好polish idea
+- experiment: 性能提升 (comparison、ablation) ，效果不好polish idea
 
-- write: motivation, 讲好一个完整的故事
-
-- submission & presentation: show time
+- presentation: 讲好一个完整的故事
 
 	
 
