@@ -4,7 +4,7 @@
 
 - system: compression、framework、kernel library、ai compiler
 
-- chip: simulator/FPGA/ASIC
+- chip: simulator(dataflow)–>FPGA/ASIC(mapping)
 
 	
 
