@@ -12,7 +12,7 @@
 
 - hands-on & get your hands dirty  
 
-- 源码 (跑通读懂魔改重构 |issue | contribute)
+- 源码 (跑通读懂魔改重构) |issue / contribute
 
 - 拥抱开源社区，眼光聚焦于学界和业界的前沿 | 做自己喜欢的事情，专注事物本身，把事物往搞好的方向努力
 
