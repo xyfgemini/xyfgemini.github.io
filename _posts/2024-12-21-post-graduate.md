@@ -28,9 +28,9 @@
 
 - survey: 研究背景（问题 挑战 motivation 相关工作）、idea（创新点）、实验效果（benchmark、 baseline、SOTA)、结论
 
-- idea: 复现 SOTA ，modeling找bottleneck ，提出idea ，创新点
+- idea: 复现 SOTA ，modeling找bottleneck ，提出idea（创新点）
 
-- experiment: 性能提升 (comparison、ablation) ，效果不好polish idea
+- experiment: 性能提升 (comparison、ablation) ，效果不好通过理论推导&实验论证polish idea
 
 - presentation: 讲好一个完整的故事
 
