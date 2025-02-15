@@ -4,7 +4,7 @@
 
 - system: compression、framework、kernel library、ai compiler
 
-- chip: simulator(dataflow)–>FPGA/ASIC(mapping)
+- chip: simulator(dataflow)–>FPGA/ASIC/CPU/GPU(mapping)
 
 	
 
@@ -24,11 +24,9 @@
 
 # research 
 
-独立科研能力，资源，collaborator |  极致special，创新，insightness
-
 - survey: 研究背景（问题 挑战 motivation 相关工作）、idea（创新点）、实验效果（comparison、ablation、benchmark、 baseline、SOTA）、结论
 
-- idea: 复现 modeling找bottleneck ，提出idea（创新点）
+- idea: 复现 modeling找bottleneck ，提出idea（极致special，创新，insightness）
 
 - experiment: 性能提升 ，效果不好通过理论推导&实验论证polish idea
 
@@ -36,9 +34,9 @@
 
 	
 
-# industry 
+# industry
 
-核心盈利部门 | 需求落地/通用性/feature 
+持续关注业界动态
 
 - [BOSC](https://shinezyy.github.io/ArchShineZ/post/recruit-dsa/)
 
