@@ -4,7 +4,7 @@
 
 - system: framework、kernel library、ai compiler
 
-- chip: simulator(dataflow)–>FPGA(validation)/NPU/CPU/GPU(mapping)
+- chip: simulator(dataflow)–>FPGA(validation)/NPU/CPU/GPU
 
 	
 
