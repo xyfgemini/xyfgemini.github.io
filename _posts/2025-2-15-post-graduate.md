@@ -1,10 +1,10 @@
 # topic 
 
-- model: LLM、stable diffusion、multi-agent
+- model: compression
 
-- system: compression、framework、kernel library、ai compiler
+- system: framework、kernel library、ai compiler
 
-- chip: simulator(dataflow)–>FPGA/ASIC/CPU/GPU(mapping)
+- chip: simulator(dataflow)–>FPGA(validation)/NPU/CPU/GPU(mapping)
 
 	
 
