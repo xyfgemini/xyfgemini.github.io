@@ -4,7 +4,7 @@
 
 - system: framework、kernel library、ai compiler
 
-- chip: simulator(dataflow)–>FPGA(validation)/NPU/CPU/GPU
+- chip: simulator(dataflow)–>FPGA(validation)/XPU
 
 	
 
@@ -21,8 +21,8 @@
 # research 
 
 - survey: 研究背景（问题 挑战 motivation 相关工作）、idea（创新点）、实验效果（comparison、ablation、benchmark、 baseline、SOTA）、结论
-- idea: 复现 modeling找bottleneck ，提出idea（极致special，创新，insightness）
-- experiment: 性能提升 ，效果不好通过理论推导&实验论证polish idea
+- idea: 复现，modeling找bottleneck ，提出idea（极致special，创新，insightness）
+- experiment: 性能提升，效果不好通过理论推导&实验论证polish idea
 - presentation: 讲好一个完整的故事
 
 
