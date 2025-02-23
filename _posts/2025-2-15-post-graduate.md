@@ -1,18 +1,8 @@
-# topic 
-
-- model: compression
-
-- system: framework、kernel library、ai compiler
-
-- chip: simulator(dataflow)–>FPGA(validation)/XPU
-
-	
-
 # [Github](https://github.com/xyfgemini)
 
 - hands-on & get your hands dirty  
 
-- 成熟开源框架(跑通–>移植拼接–>魔改–>重构)、提issue、contribute
+- 开源框架(跑通–>移植拼接–>魔改–>重构)、提issue & pr
 
 - 拥抱开源社区，眼光聚焦于学界和业界的前沿，专注事物本身，把事物往搞好的方向努力
 
