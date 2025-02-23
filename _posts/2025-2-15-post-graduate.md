@@ -2,15 +2,18 @@
 
 - hands-on & get your hands dirty  
 
-- 拥抱开源社区[Github](https://github.com/xyfgemini)，开源框架(跑通–>移植拼接–>魔改–>重构)、提issue & pr
+- 开源社区[Github](https://github.com/xyfgemini)
 
-- 眼光聚焦于业界的前沿，专注事物本身，把事物往搞好的方向努力
+	-   开源框架(跑通–>移植拼接–>魔改–>重构)
+	- 提issue & pr
+
+- cutting-edge
 
   -   [BOSC](https://shinezyy.github.io/ArchShineZ/post/recruit-dsa/)
   
   
 
-# research 
+# Research 
 
 - survey: 研究背景（问题 挑战 motivation 相关工作）、idea（创新点）、实验效果（comparison、ablation、benchmark、 baseline、SOTA）、结论
 - idea: 复现，modeling找bottleneck ，提出idea（极致special，创新，insightness）
