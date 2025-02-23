@@ -1,11 +1,13 @@
-# [Github](https://github.com/xyfgemini)
+# Projects
 
 - hands-on & get your hands dirty  
 
-- 开源框架(跑通–>移植拼接–>魔改–>重构)、提issue & pr
+- 拥抱开源社区[Github](https://github.com/xyfgemini)，开源框架(跑通–>移植拼接–>魔改–>重构)、提issue & pr
 
-- 拥抱开源社区，眼光聚焦于学界和业界的前沿，专注事物本身，把事物往搞好的方向努力
+- 眼光聚焦于业界的前沿，专注事物本身，把事物往搞好的方向努力
 
+  -   [BOSC](https://shinezyy.github.io/ArchShineZ/post/recruit-dsa/)
+  
   
 
 # research 
@@ -14,14 +16,6 @@
 - idea: 复现，modeling找bottleneck ，提出idea（极致special，创新，insightness）
 - experiment: 性能提升，效果不好通过理论推导&实验论证polish idea
 - presentation: 讲好一个完整的故事
-
-
-
-# industry
-
-持续关注业界动态
-
-- [BOSC](https://shinezyy.github.io/ArchShineZ/post/recruit-dsa/)
 
 
 
