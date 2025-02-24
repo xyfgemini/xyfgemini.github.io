@@ -1,26 +1,20 @@
 # Project
 
-- 开源社区[Github](https://github.com/xyfgemini)
+-   [Github](https://github.com/xyfgemini)开源框架提issue & pr(跑通–>移植拼接–>魔改–>重构)
 
-  -   开源框架(跑通–>移植拼接–>魔改–>重构)
-  - 提issue & pr
+-   [BOSC](https://shinezyy.github.io/ArchShineZ/post/recruit-dsa/)(前沿)
 
-- cutting-edge
 
-  -   [BOSC](https://shinezyy.github.io/ArchShineZ/post/recruit-dsa/)
-
-  
 
 # Research 
 
-- methodology:
-	- survey: 研究背景（问题 挑战 motivation 相关工作）、idea（创新点）、实验效果（comparison、ablation、benchmark、 baseline、SOTA）、结论
-	- idea: 复现，modeling找bottleneck ，提出idea（极致special，创新，insightness）
-	- experiment: 性能提升，效果不好通过理论推导&实验论证polish idea
+- survey: 研究背景（问题 挑战 motivation 相关工作）、idea（创新点）、实验效果（comparison、ablation、benchmark、 baseline、SOTA）、结论
 
+- idea: 复现，modeling找bottleneck ，提出idea（极致special，创新，insightness）
 
+- experiment: 性能提升，效果不好通过理论推导&实验论证polish idea
 
-
+	
 
 
 # 鸡汤
