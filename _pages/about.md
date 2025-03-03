@@ -9,5 +9,5 @@ redirect_from:
 
 # About me
 
-continue building my homepage!
+Template~ 
 
